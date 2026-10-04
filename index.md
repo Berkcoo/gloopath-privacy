@@ -12,9 +12,7 @@ oyununun bilgileri nasıl kullandığını açıklar.
 ## Veri Toplama ve Kullanım
 
 Gloopath'ı oynamak için hesap oluşturmanız gerekmez. Berkco App Studio,
-kendi sunucularında kişisel veri toplamaz veya saklamaz. Ancak oyunda
-kullanılan Google AdMob gibi üçüncü taraf hizmetler, reklam sunumu ve ölçümü
-amacıyla belirli verileri kendi gizlilik politikalarına göre işleyebilir.
+kendi sunucularında kişisel veri toplamaz veya saklamaz.
 
 ## Yerel Veri Saklama
 
@@ -28,41 +26,22 @@ Berkco App Studio'ya ulaşmaz.
 
 ## İzinler
 
-Oyunun reklam içeren sürümleri şu izinleri kullanır:
-
-- **İnternet ve ağ durumu:** ödüllü reklamları yüklemek ve göstermek için.
-- **Reklam kimliği:** Google'ın reklam hizmetlerinin reklamı sunması ve
-  ölçmesi için.
-
-Oyun kamera, mikrofon, konum, kişiler veya depolama izni talep etmez.
-Bölümleri oynamak için internet bağlantısı gerekmez; internet bağlantısı
-reklamlar için kullanılır.
+Bu sürüm; kamera, mikrofon, konum, kişiler, depolama veya internet erişimi
+gibi izinler talep etmemektedir.
 
 ## Reklamlar ve Üçüncü Taraf Hizmetleri
 
-Gloopath, Google AdMob aracılığıyla **ödüllü video reklam** gösterebilir.
-Reklam yalnızca siz isteyince, yani ipucu, yol kontrolü, geri alma ya da
-sıkışınca yardım gibi isteğe bağlı bir yardımı açmak için "reklam izle"yi
-seçtiğinizde gösterilir. Oyun sırasında kendiliğinden açılan afiş veya tam
-ekran reklam göstermeyi planlamıyoruz.
-
-Bir reklam gösterildiğinde Google ve reklam ortakları; reklam kimliği,
-yaklaşık konum (IP adresinden), cihaz ve uygulama etkileşim bilgileri gibi
-verileri reklamları sunmak, ölçmek ve kötüye kullanımı önlemek için kendi
-gizlilik politikalarına göre işleyebilir. Bu veriler Google ve ortaklarının
-kendi sistemlerinde işlenir. Bilgi için: https://policies.google.com/technologies/ads
-
-Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre'deki kullanıcılara (ve
-gerekli olan diğer bölgelerde) Google'ın onay formu gösterilir. Form gerekli
-olduğunda tercihinizi oyunun Ayarlar bölümündeki "Gizlilik seçenekleri"nden
-istediğiniz zaman değiştirebilirsiniz. Telefonunuzun ayarlarından reklam
-kimliğinizi sıfırlayabilir veya reklam kişiselleştirmeyi kapatabilirsiniz.
+Mevcut Gloopath sürümünde reklam SDK'sı bulunmamaktadır. Gloopath'ın
+gelecekteki sürümlerinde Google AdMob gibi reklam hizmetleri eklenebilir.
+Böyle bir değişiklik yapılması halinde bu gizlilik politikası ve ilgili
+uygulama mağazası veri beyanları, yeni sürüm yayınlanmadan önce
+güncellenecektir.
 
 Şu anda oyunda kendi adımıza kullanıcı analitiği veya takibi için ayrı bir
-hizmet kullanılmamaktadır; bu durum değişirse bu politika güncellenir. Oyun Google Play üzerinden dağıtılır; Google Play
-hizmetleri Google'ın kendi gizlilik politikasına tabidir. Google Play,
-geliştiriciye toplu çökme ve kullanım istatistiklerini ("Android vitals")
-gösterebilir.
+hizmet kullanılmamaktadır; bu durum değişirse bu politika güncellenir. Oyun
+Google Play üzerinden dağıtılır; Google Play hizmetleri Google'ın kendi
+gizlilik politikasına tabidir. Google Play, geliştiriciye toplu çökme ve
+kullanım istatistiklerini ("Android vitals") gösterebilir.
 
 ## Çocukların Gizliliği
 
@@ -107,9 +86,6 @@ Studio, handles information.
 
 **Data collection and use.** You don't need an account to play Gloopath.
 Berkco App Studio does not collect or store personal data on its own servers.
-However, third-party services used in the game, such as Google AdMob, may
-process certain data for ad delivery and measurement in accordance with their
-own privacy policies.
 
 **Local storage.** Your progress (unlocked levels, stars) and settings (sound,
 language and so on) are kept in a file in the game's private storage on
@@ -119,38 +95,20 @@ turned on, the file may be backed up to your Google account by Google's backup
 service, which is subject to Google's privacy policy and does not reach
 Berkco App Studio.
 
-**Permissions.** Versions of the game that include ads use these permissions:
+**Permissions.** This version does not request permissions such as camera,
+microphone, location, contacts, storage or internet access.
 
-- **Internet and network state:** to load and show rewarded ads.
-- **Advertising ID:** so that Google's ad services can serve and measure ads.
+**Ads and third-party services.** The current version of Gloopath does not
+contain an advertising SDK. Future versions may include advertising services
+such as Google AdMob. If such services are introduced, this Privacy Policy and
+the applicable app-store data disclosures will be updated before the relevant
+version is released.
 
-The game does not request camera, microphone, location, contacts or storage
-permissions. An internet connection is not needed to play the levels; it is
-used for ads.
-
-**Ads and third-party services.** Gloopath may show **rewarded video ads**
-through Google AdMob. An ad is shown only when you ask for it, that is, when
-you choose to watch an ad to unlock an optional help such as a hint, a route
-check, an undo or a rescue when you are stuck. We do not plan to show banner or
-full-screen ads that open by themselves during play.
-
-When an ad is shown, Google and its partners may process data such as the
-advertising ID, approximate location (from the IP address), and device and app
-interaction information to serve and measure ads and prevent abuse, under
-their own privacy policies. This data is processed in the systems of Google and
-its partners. See https://policies.google.com/technologies/ads
-
-Users in the European Economic Area, the United Kingdom and Switzerland (and
-other regions where it is required) are shown Google's consent form. When the
-form applies you can change your choice at any time under Settings > Privacy
-options in the game. You can reset your advertising ID or turn off ad
-personalisation in your phone's settings.
-
-At present the game does not use a separate analytics or user tracking
-service of its own; if that changes, this policy will be updated. It is
-distributed through Google Play, whose services are subject to Google's
-privacy policy; Google Play may show the developer aggregated crash and usage
-statistics ("Android vitals").
+At present the game does not use a separate analytics or user tracking service
+of its own; if that changes, this policy will be updated. It is distributed
+through Google Play, whose services are subject to Google's privacy policy;
+Google Play may show the developer aggregated crash and usage statistics
+("Android vitals").
 
 **Children's privacy.** The game is not directed at children, and it is not
 intended to knowingly collect information from children. No account is needed.
