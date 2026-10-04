@@ -1,0 +1,5 @@
+title: Gloopath
+lang: tr
+theme: jekyll-theme-primer
+exclude:
+  - README.md

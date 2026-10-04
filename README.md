@@ -1,3 +1,3 @@
-# Gloopath privacy policy (moved)
+# Gloopath privacy policy
 
-The policy now lives on the studio site: https://berkcoo.github.io/gloopath/gizlilik/ (source: Berkcoo/berkcoo.github.io, gloopath/gizlilik.md). This page only redirects.
+Source of the public privacy policy page of the Gloopath game (Android), published with GitHub Pages at https://berkcoo.github.io/gloopath-privacy/ . The text is maintained in the game repository (Docs/privacy-policy.md) and copied here as index.md.
