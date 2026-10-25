@@ -35,10 +35,9 @@ bittiği anda verilir, istediğiniz videoda bırakabilirsiniz. Bölümü yeniden
 başlatmak her zaman ücretsizdir.
 
 **Oyunda reklam var mı?** Evet, Google AdMob reklamları vardır: yukarıdaki
-isteğe bağlı videolar ve 51. bölümden sonra, bir hata yaptığınızda (çıkmaz ya da
-hamle hakkı bitince) gösterilebilen tam ekran reklam. İlk 50 bölümde tam ekran
-reklam yoktur; oyun sırasında, bölüm başlarken ya da bölüm bitince tam ekran
-reklam gösterilmez. Ayrıntılar gizlilik politikasındadır.
+isteğe bağlı videolar ve bir hata yaptığınızda (çıkmaz ya da hamle hakkı
+bitince) gösterilebilen tam ekran reklam. Oyun sırasında, bölüm başlarken ya da
+bölüm bitince tam ekran reklam gösterilmez. Ayrıntılar gizlilik politikasındadır.
 
 **Reklam tercihlerimi nasıl değiştiririm? Uygunsuz bir reklamı nasıl bildiririm?**
 Ayarlar > Gizlilik seçenekleri (onay formu), Ayarlar > Reklam bildir. iOS'ta
@@ -87,9 +86,8 @@ any video. Restarting a level is always free.
 
 **Does the game have ads?** Yes, it has Google AdMob ads: the optional videos
 above, and a full-screen ad that may be shown after a mistake (a dead end or
-running out of moves) from level 51 on. There are no full-screen ads in the first
-50 levels, and none while you play, when a level starts or when a level is
-completed. Details are in the privacy policy.
+running out of moves). There are no full-screen ads while you play, when a level
+starts or when a level is completed. Details are in the privacy policy.
 
 **How do I change my ad choices? How do I report an inappropriate ad?** Settings >
 Privacy options (consent form), Settings > Report an ad. On iOS, the tracking

@@ -49,8 +49,7 @@ iki türlüdür:
    ipucu, art arda 2 video izleyince toplam 5 ipucu). Ödül, video bittiği anda
    verilir; istediğiniz videoda bırakabilirsiniz. Video izlemeden de oynamaya
    devam edebilirsiniz.
-2. **Hata anında tam ekran reklam (50. bölümden sonra).** İlk 50 bölümde tam
-   ekran reklam gösterilmez. 51. bölümden itibaren bir hata yaptığınızda
+2. **Hata anında tam ekran reklam.** Bir hata yaptığınızda
    (bölümde çıkmaza girdiğinizde ya da hamle hakkınız bittiğinde) tam ekran bir
    reklam gösterilebilir; en fazla her ikinci hatada bir kez ve iki reklam
    arasında en az 90 saniye olacak şekilde. Bölüm sırasında, bir bölüm
@@ -197,8 +196,7 @@ AdMob and come in two kinds:
    hints, and 2 videos in a row give 5 in total). The reward is given the moment a
    video ends, and you can stop after any video. You can keep playing without
    watching any.
-2. **A full-screen ad after a mistake (after level 50).** There are no
-   full-screen ads in the first 50 levels. From level 51 on, when you make a
+2. **A full-screen ad after a mistake.** When you make a
    mistake (you get stuck in a dead end or you use up your moves), a full-screen
    ad may be shown, at most once every second mistake and with at least 90
    seconds between two ads. Full-screen ads are not shown while you play, when a
